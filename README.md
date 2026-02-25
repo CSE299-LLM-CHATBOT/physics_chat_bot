@@ -141,8 +141,8 @@ User Question
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/physics-chatbot.git
-cd physics-chatbot
+git clone https://github.com/CSE299-LLM-CHATBOT/physics_chat_bot.git
+cd physics_chat_bot
 ```
 
 ### 2. Backend Setup
